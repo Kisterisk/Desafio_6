@@ -1,2 +1,2 @@
-var ejercicioB = 'Ejercicio B'
-console.warn(ejercicioB)
+var ejercicioC = 'Ejercicio C'
+console.warn(ejercicioC)
